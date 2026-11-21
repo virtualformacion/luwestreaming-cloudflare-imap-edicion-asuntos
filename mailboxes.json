@@ -10,6 +10,16 @@
       "password_encrypted": "{\"v\":1,\"iv\":\"e0i7CacbC6aFwd01\",\"data\":\"CzVayf+SKH1diDXFMvyYavuecunU5uzzM5HvLG4zS/k=\"}",
       "created_at": "2026-11-21T16:25:15.324Z",
       "updated_at": "2026-11-21T16:25:15.324Z"
+    },
+    {
+      "id": "5edc898e-738f-4d73-aaba-4162cecdb5e5",
+      "email": "mgimenez199330@gmail.com",
+      "name": "edfew",
+      "folder": "",
+      "active": 1,
+      "password_encrypted": "{\"v\":1,\"iv\":\"Huu20xnp67w5bjMu\",\"data\":\"Cf64xud3VEmXwT9k6bnkUCxDoy+8gFrqouRAODRV1IM=\"}",
+      "created_at": "2026-11-21T16:32:21.611Z",
+      "updated_at": "2026-11-21T16:32:21.611Z"
     }
   ]
 }
